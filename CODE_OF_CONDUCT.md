@@ -1,6 +1,6 @@
 # Code of conduct
 
-We will follow the code of conduct of the Society of RSE:
+We will follow the code of conduct of the Society of Research Software Engineering (RSE):
 https://society-rse.org/about/policies/code-of-conduct/
 
 All participants in Fortran index hackathons must read this page and agree to
