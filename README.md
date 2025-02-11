@@ -12,7 +12,8 @@ of semi-regular 2.5-hour hackathons.
 
 ### Code of conduct
 
-[TO DO]
+We follow the Society of RSE
+[code of conduct](https://society-rse.org/about/policies/code-of-conduct/).
 
 ### Contact
 
