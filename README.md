@@ -15,6 +15,13 @@ of semi-regular 2.5-hour hackathons.
 We follow the Society of RSE
 [code of conduct](https://society-rse.org/about/policies/code-of-conduct/).
 
+### Events
+
+| Date       | Time (UTC)  | Topic    | Registration form                   |
+| ---------- | ----------- | -------- | ----------------------------------- |
+| 2025-02-11 | 13:30-16:00 | Packages | -                                   |
+| 2025-??-?? | ?           | Packages | https://forms.gle/TxzKQCBUk8RR67tPA |
+
 ### Contact
 
 If you're interested in participating in a Fortran index hackathon, please get
