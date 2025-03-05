@@ -17,10 +17,10 @@ We follow the Society of RSE
 
 ### Events
 
-| Date       | Time (UTC)  | Topic    | Registration form                   |
-| ---------- | ----------- | -------- | ----------------------------------- |
-| 2025-02-11 | 13:30-16:00 | Packages | -                                   |
-| 2025-??-?? | ?           | Packages | https://forms.gle/TxzKQCBUk8RR67tPA |
+| Date       | Time              | Topic    | Registration form                   |
+| ---------- | ----------------- | -------- | ----------------------------------- |
+| 2025-02-11 | 13:30-16:00 (UTC) | Packages | -                                   |
+| 2025-04-07 | 13:00-15:30 (BST) | Packages | https://forms.gle/TxzKQCBUk8RR67tPA |
 
 ### Contact
 
