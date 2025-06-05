@@ -21,6 +21,7 @@ We follow the Society of RSE
 | ---------- | ----------------- | -------- | ----------------------------------- |
 | 2025-02-11 | 13:30-16:00 (UTC) | Packages | -                                   |
 | 2025-04-07 | 13:00-15:30 (BST) | Packages | https://forms.gle/TxzKQCBUk8RR67tPA |
+| 2025-06-12 | 10:00-12:30 (BST) | More info for packages and compilers | https://forms.gle/Zp9YkC282pabCxaf8 |
 
 ### Setup
 
