@@ -47,4 +47,5 @@ git clone --depth=1 git@github.com:fortran-index/fortran-lang-webpage.git
 ### Contact
 
 If you're interested in participating in a Fortran index hackathon, please get
-in touch with Joe Wallwork (@jwallwork23, jw2423@cam.ac.uk).
+in touch with Joe Wallwork ([@jwallwork23](https://github.com/jwallwork23),
+jw2423@cam.ac.uk).
