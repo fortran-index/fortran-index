@@ -1,6 +1,6 @@
 # Fortran index
 
-Fortran index is an initiative borne out of the
+Fortran index is an initiative born out of the
 [Back to the Fortran Future](https://lu.ma/ao471jms) satellite event of
 [RSECon 2024](https://rsecon24.society-rse.org/). Our mission is to make it
 easier for Fortran users and developers to find useful resources, such as tools,
