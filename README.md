@@ -23,6 +23,7 @@ We follow the Society of RSE
 | 2025-04-07 | 13:00-15:30 (BST) | Packages | https://forms.gle/TxzKQCBUk8RR67tPA |
 | 2025-06-12 | 10:00-12:30 (BST) | More info for packages and compilers | https://forms.gle/Zp9YkC282pabCxaf8 |
 | 2025-09-08 | 09:30-16:30 (BST) | Strategy session within Back to the Fortran Future 2 workshop | https://lu.ma/0086jtey |
+| 2025-11-10 | 14:00-16:30 (UTC) | TBD      | https://forms.gle/cx7h92r5M9AR1Hio8 |
 
 ### Setup
 
