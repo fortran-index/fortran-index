@@ -10,3 +10,5 @@ Number of attendees: 4
 
 - [#566](https://github.com/fortran-lang/webpage/pull/566): Display package
   license info if provided in `package_index.yaml`.
+- [#593](https://github.com/fortran-lang/webpage/pull/593): Provide more details
+  on compilers.
