@@ -1,8 +1,9 @@
 # Hackathon 1 (2025-02-11)
 
-In this initial hackathon, we focussed on adding packages to fortran-lang's
-package index. We also found and raised a few issues and contributed a PR to
-address one of them.
+In this initial hackathon, we focussed on adding packages to
+[fortran-lang](https://fortran-lang.org)'s
+[package index](https://fortran-lang.org/packages/). We also found and raised a
+few issues and contributed a PR to address one of them.
 
 Number of attendees: 6
 

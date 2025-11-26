@@ -1,8 +1,10 @@
 # Hackathon 2 (2025-04-07)
 
-In our second hackathon, we continued to add packages to fortran-lang's package
-index, but also started planning our next steps for broader, structural changes.
-We also fixed various issues with the 'learn' page.
+In our second hackathon, we continued to add packages to
+[fortran-lang](https://fortran-lang.org)'s
+[package index](https://fortran-lang.org/packages/), but also started planning
+our next steps for broader, structural changes. We also fixed various issues
+with the ['learn' page](https://fortran-lang.org/learn/).
 
 Number of attendees: 9
 
