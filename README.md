@@ -17,14 +17,14 @@ We follow the Society of RSE
 
 ### Events
 
-| Date       | Time              | Topic                                | Registration form                   |
-| ---------- | ----------------- | ------------------------------------ | ----------------------------------- |
-| 2025-02-11 | 13:30-16:00 (UTC) | Packages                             | -                                   |
-| 2025-04-07 | 13:00-15:30 (BST) | Packages                             | https://forms.gle/TxzKQCBUk8RR67tPA |
-| 2025-06-12 | 10:00-12:30 (BST) | More info for packages and compilers | https://forms.gle/Zp9YkC282pabCxaf8 |
+| Date       | Time              | Topic                                 | Registration form                   |
+| ---------- | ----------------- | ------------------------------------- | ----------------------------------- |
+| 2025-02-11 | 13:30-16:00 (UTC) | Packages                              | -                                   |
+| 2025-04-07 | 13:00-15:30 (BST) | Packages                              | https://forms.gle/TxzKQCBUk8RR67tPA |
+| 2025-06-12 | 10:00-12:30 (BST) | More info for packages and compilers  | https://forms.gle/Zp9YkC282pabCxaf8 |
 | 2025-09-08 | 09:30-16:30 (BST) | Strategy session within Back to the Fortran Future 2 workshop | https://lu.ma/0086jtey |
-| 2025-12-15 | 14:00-16:30 (UTC) | TBD                                  | https://forms.gle/cx7h92r5M9AR1Hio8 |
-| 2026-01-?? | TBD               | [SIG-RPC][SIG-RPC] collab            | https://doodle.com/meeting/organize/id/b4KoD5xa |
+| 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | https://forms.gle/cx7h92r5M9AR1Hio8 |
+| 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC][SIG-RPC] collab             | https://forms.gle/J8W772hy38auCeX29 |
 
 ### Setup
 
