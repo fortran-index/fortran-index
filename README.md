@@ -23,9 +23,9 @@ We follow the Society of RSE
 | 2025-04-07 | 13:00-15:30 (BST) | Packages                              | Closed                              | [Info](./contributions/2025-04-07/README.md) |
 | 2025-06-12 | 10:00-12:30 (BST) | More info for packages and compilers  | Closed                              | [Info](./contributions/2025-06-12/README.md) |
 | 2025-09-08 | 09:30-16:30 (BST) | Strategy session within Back to the Fortran Future 2 workshop | Closed      | [Info](./contributions/2025-09-08/README.md) |
-| 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | https://forms.gle/cx7h92r5M9AR1Hio8 | [Info](./contributions/2025-12-15/README.md) |
+| 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | Closed                            | [Info](./contributions/2025-12-15/README.md) |
 | 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC][SIG-RPC] collab             | https://forms.gle/J8W772hy38auCeX29 | [Info](./contributions/2026-01-26/README.md) |
-| 2026-03-?? | ??:??-??:?? (???) | Reworking of package index            | TBD | TBD                                          |
+| 2026-03-?? | ??:??-??:?? (???) | Reworking of package index            | TBD                                 | TBD                                          |
 
 ### Setup
 
