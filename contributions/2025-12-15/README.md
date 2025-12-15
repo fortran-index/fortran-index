@@ -14,3 +14,4 @@ Number of attendees: 4
 - Bump copyright year [#610](https://github.com/fortran-lang/webpage/pull/610)
 - Improve structure of learn section [#611](https://github.com/fortran-lang/webpage/pull/611)
 - Reorder top bar [#612](https://github.com/fortran-lang/webpage/pull/612)
+- Replace 'native' with 'built-in' [#613](https://github.com/fortran-lang/webpage/pull/613)
