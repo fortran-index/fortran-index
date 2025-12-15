@@ -5,8 +5,11 @@ this hackathon will focus on making it clear on the
 [fortran-lang](https://fortran-lang.org) website *why* someone would want to use
 Fortran.
 
-Number of attendees: TBD
+Number of attendees: 4
 
 ## Pull requests
 
-- TBD
+- Remove link to empty Twitter/X account [#607](https://github.com/fortran-lang/webpage/pull/607)
+- Add 'Interoperable' section to 'Features' on front page [#608](https://github.com/fortran-lang/webpage/pull/608)
+- Bump copyright year [#610](https://github.com/fortran-lang/webpage/pull/610)
+- Improve structure of learn section [#611](https://github.com/fortran-lang/webpage/pull/611)
