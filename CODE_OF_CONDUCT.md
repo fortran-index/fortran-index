@@ -1,7 +1,8 @@
 # Code of conduct
 
-We will follow the code of conduct of the Society of Research Software Engineering (RSE):
-https://society-rse.org/about/policies/code-of-conduct/
+We will follow the code of conduct of the Computational Abilities Knowledge
+Exchange (CAKE) community:
+https://www.cake.ac.uk/CAKEbox/code-of-conduct/
 
 All participants in Fortran index hackathons must read this page and agree to
 its terms.
