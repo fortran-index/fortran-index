@@ -15,3 +15,5 @@ Number of attendees: 4
 - Improve structure of learn section [#611](https://github.com/fortran-lang/webpage/pull/611)
 - Reorder top bar [#612](https://github.com/fortran-lang/webpage/pull/612)
 - Replace 'native' with 'built-in' [#613](https://github.com/fortran-lang/webpage/pull/613)
+- Use Ruff for linting Python [#614](https://github.com/fortran-lang/webpage/pull/614)
+- Add UKCA and LFRic to package index [#615](https://github.com/fortran-lang/webpage/pull/615)
