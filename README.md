@@ -12,8 +12,9 @@ of semi-regular 2.5-hour hackathons.
 
 ### Code of conduct
 
-We follow the Society of RSE
-[code of conduct](https://society-rse.org/about/policies/code-of-conduct/).
+We follow the [code of conduct](https://www.cake.ac.uk/CAKEbox/code-of-conduct/)
+of the Computational Abilities Knowledge Exchange (CAKE) network. See the
+[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) file for more details.
 
 ### Events
 
