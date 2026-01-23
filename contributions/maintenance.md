@@ -20,3 +20,7 @@ and pull requests as part of the Fortran index initiative:
 * https://github.com/fortran-lang/webpage/issues/526
 * https://github.com/fortran-lang/webpage/issues/481
 * https://github.com/fortran-lang/webpage/issues/255
+
+# Blog posts contributed
+
+* https://github.com/fortran-lang/webpage/pull/623
