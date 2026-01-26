@@ -26,7 +26,7 @@ of the Computational Abilities Knowledge Exchange (CAKE) network. See the
 | 2025-09-08 | 09:30-16:30 (BST) | Strategy session within Back to the Fortran Future 2 workshop | Closed      | [Info](./contributions/2025-09-08/README.md) |
 | 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | Closed                            | [Info](./contributions/2025-12-15/README.md) |
 | 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC][sig-rpc] collab             | https://forms.gle/J8W772hy38auCeX29 | [Info](./contributions/2026-01-26/README.md) |
-| 2026-03-?? | ??:??-??:?? (???) | Reworking of package index            | TBD                                 | TBD                                          |
+| 2026-03-?? | ??:??-??:?? (???) | Reworking of package index            | TBD                                 | [Info](./contributions/2026-XX-XX/README.md) |
 
 ### Setup
 
