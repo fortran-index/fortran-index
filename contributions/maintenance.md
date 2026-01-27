@@ -4,6 +4,10 @@ As a maintainer of [fortran-lang](https://fortran-lang.org/),
 [@joewallwork](https://github.com/joewallwork) has triaged the following issues
 and pull requests as part of the Fortran index initiative:
 
+## Issues opened
+
+* https://github.com/fortran-lang/webpage/issues/627
+
 ## PRs merged
 
 * Reorder topbar [#612](https://github.com/fortran-lang/webpage/pull/612)
