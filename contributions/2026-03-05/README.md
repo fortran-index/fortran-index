@@ -1,4 +1,4 @@
-# Hackathon 6 (2026-XX-XX)
+# Hackathon 6 (2026-03-05)
 
 In this hackathon, we'll overhaul fortran-lang's
 [package index](https://fortran-lang.org/packages/) to make it more useful for
