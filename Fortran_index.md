@@ -1,21 +1,15 @@
 ---
 project: Fortran index
-summary: TODO
+summary: Community initiative for improving knowledge exchange related to the Fortran programming language
 license: mit
 project_github: https://github.com/fortran-index/fortran-index
-author: ICCS Cambridge
-author_pic: https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/www/pages/media/Fortran_index.png
-author_description: Community initiative for improving knowledge exchange related to the Fortran programming language
 github: https://github.com/fortran-index
 page_dir: pages
 media_dir: ./pages/media/
-# css: ./pages/media/theme/ftorch.css
-favicon: ./pages/media/FTorch_index.png
+css: ./pages/media/theme/fortran_index.css
+favicon: ./pages/media/Fortran_index.png
 src_dir: ./src
 output_dir: ./doc
-sort: alpha
-source: true
-graph: true
 externalize: true
 md_extensions: markdown.extensions.toc
                markdown.extensions.tables
@@ -24,21 +18,22 @@ md_extensions: markdown.extensions.toc
 
 --------------------
 
-![logo](|media|/Fortran_index.svg "Fortran index logo"){width=100%}
+![logo](|media|/Fortran_index.svg "Fortran index logo"){width=30%}
 
 
 Description
 -----------
 
 *Fortran index* is an initiative born out of the
-[Back to the Fortran Future][BTTFF1] satellite event of [RSECon 2024][RSECon24].
+[Back to the Fortran Future](https://lu.ma/ao471jms) satellite event of
+[RSECon 2024](https://rsecon24.society-rse.org/).
 Our mission is to make it easier for Fortran users and developers to find useful
 resources, such as tools, documentation, training materials... and anything else
 Fortran-related.
 
 We work on improving Fortran indexing by making group contributions to the
-existing [fortran-lang][fortran-lang] website. The format for our contributions
-is a sequence of semi-regular 2.5-hour hackathons.
+existing [fortran-lang](https://fortran-lang.org/) website. The format for our
+contributions is a sequence of semi-regular 2.5-hour hackathons.
 
 Code of conduct
 ---------------
@@ -58,13 +53,13 @@ Events
 | 2025-09-08 | 09:30-16:30 (BST) | Strategy session within Back to the Fortran Future 2 workshop | Closed      | [Info](./contributions/2025-09-08/README.md) |
 | 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | Closed                            | [Info](./contributions/2025-12-15/README.md) |
 | 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC][sig-rpc] collab             | https://forms.gle/J8W772hy38auCeX29 | [Info](./contributions/2026-01-26/README.md) |
-| 2026-03-?? | ??:??-??:?? (???) | Reworking of package index            | TBD                                 | [Info](./contributions/2026-XX-XX/README.md) |
+| 2026-03-05 | 14:00-16:30 (UTC) | Reworking of package index            | https://forms.gle/fx3H8FaYJ7UfPRM96 | [Info](./contributions/2026-03-15/README.md) |
 
 Funding
 -------
 
 Fortran index is supported by a Computational Abilities Knowledge Exchange
-(CAKE) [fellowship][fellowship].
+(CAKE) [fellowship](https://www.cake.ac.uk/ke-fellowships/cohort1#joe-wallwork).
 
 
 Contact
@@ -72,7 +67,7 @@ Contact
 
 If you're interested in participating in a Fortran index hackathon, please get
 in touch with Joe Wallwork ([@joewallwork](https://github.com/joewallwork),
-jw2423@cam.ac.uk).
+[jw2423@cam.ac.uk](mailto:jw2423@cam.ac.uk).
 
 
 License
