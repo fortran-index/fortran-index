@@ -56,7 +56,7 @@ Fortran index is supported by a Computational Abilities Knowledge Exchange
 
 If you're interested in participating in a Fortran index hackathon, please get
 in touch with Joe Wallwork ([@joewallwork](https://github.com/joewallwork),
-[jw2423@cam.ac.uk](mailto:jw2423@cam.ac.uk).
+[jw2423@cam.ac.uk](mailto:jw2423@cam.ac.uk)).
 
 
 [BTTFF1]: https://lu.ma/ao471jms
