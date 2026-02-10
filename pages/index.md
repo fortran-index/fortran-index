@@ -7,4 +7,4 @@ date: Last Updated: February 2026
 - [Contribution](|page|/contribution/index.html)
 - [Events](|page|/events.html)
 - [Funding](|page|/funding.html)
-- [License](|page|/LICENSE.html)
+- [Licensing](|page|/licensing.html)
