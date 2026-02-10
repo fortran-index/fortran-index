@@ -34,27 +34,8 @@ touch, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 | 2025-06-12 | 10:00-12:30 (BST) | More info for packages and compilers  | Closed                              | [Info](./contributions/2025-06-12/README.md) |
 | 2025-09-08 | 09:30-16:30 (BST) | Strategy session within Back to the Fortran Future 2 workshop | Closed      | [Info](./contributions/2025-09-08/README.md) |
 | 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | Closed                            | [Info](./contributions/2025-12-15/README.md) |
-| 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC][sig-rpc] collab             | https://forms.gle/J8W772hy38auCeX29 | [Info](./contributions/2026-01-26/README.md) |
+| 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC][sig-rpc] collab             | Closed                              | [Info](./contributions/2026-01-26/README.md) |
 | 2026-03-05 | 14:00-16:30 (UTC) | Reworking of package index            | https://forms.gle/fx3H8FaYJ7UfPRM96 | [Info](./contributions/2026-03-15/README.md) |
-
-### Setup
-
-To set yourself up for contributing to Fortran index in one of the hackathons,
-provide your GitHub username to one of the organisers, who will add you to the
-`fortran-index` GitHub organisation. Once you've been added, you will be able to
-clone the
-[`fortran-lang-webpage`](https://github.com/fortran-index/fortran-lang-webpage)
-fork of https://github.com/fortran-lang/webpage.
-
-Beware that a strightforward clone of this fork will pull the entire Git history
-of the website, which is more than 50 GB. Instead, clone using
-```
-git clone --filter=blob:none git@github.com:fortran-index/fortran-lang-webpage.git
-```
-or
-```
-git clone --depth=1 git@github.com:fortran-index/fortran-lang-webpage.git
-```
 
 ### Funding
 
