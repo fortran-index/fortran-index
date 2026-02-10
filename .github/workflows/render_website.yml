@@ -1,0 +1,56 @@
+name: Render website
+
+on:
+  push:
+    branches: main
+  pull_request:
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: 'render-website_${{ github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Install FORD
+        run: |
+          python3 -m venv fortran-index
+          . fortran-index/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements-dev.txt
+
+      - name: Render HTML
+        run: |
+          . fortran-index/bin/activate
+          ford Fortran_index.md
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /root/output/docs/build/html
+
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs: render
+    if: ${{ github.ref == 'refs/heads/main' }}
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
