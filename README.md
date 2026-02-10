@@ -16,6 +16,11 @@ We follow the [code of conduct](https://www.cake.ac.uk/CAKEbox/code-of-conduct/)
 of the Computational Abilities Knowledge Exchange (CAKE) network. See the
 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) file for more details.
 
+### Contributing
+
+To find out how to contribute to Fortran index and for details on how to get in
+touch, see the [CONTRIBUTING.md](CONTRIBUTING,md) file.
+
 ### Events
 
 | Date       | Time              | Topic                                 | Registration                        | Contributions                                |
@@ -51,12 +56,6 @@ git clone --depth=1 git@github.com:fortran-index/fortran-lang-webpage.git
 
 Fortran index is supported by a Computational Abilities Knowledge Exchange
 (CAKE) [fellowship][fellowship].
-
-### Contact
-
-If you're interested in participating in a Fortran index hackathon, please get
-in touch with Joe Wallwork ([@joewallwork](https://github.com/joewallwork),
-[jw2423@cam.ac.uk](mailto:jw2423@cam.ac.uk)).
 
 
 [BTTFF1]: https://lu.ma/ao471jms
