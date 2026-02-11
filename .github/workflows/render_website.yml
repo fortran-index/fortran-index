@@ -1,0 +1,68 @@
+name: Render website
+
+on:
+  push:
+    branches: main
+  pull_request:
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: 'render-website_${{ github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    if: ${{ github.event_name == 'pull_request' }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Install FORD
+        run: |
+          python3 -m venv fortran-index
+          . fortran-index/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements-dev.txt
+
+      - name: Render HTML
+        run: |
+          set -e
+          . fortran-index/bin/activate
+          ford Fortran_index.md
+
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    if: ${{ github.event_name != 'pull_request' }}
+    permissions:
+      contents: write  # We trust the deploy action with write permissions
+      id-token: write  # We trust the deploy action with write permissions
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Install FORD
+        run: |
+          python3 -m venv fortran-index
+          . fortran-index/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements-dev.txt
+
+      - name: Render HTML
+        run: |
+          set -e
+          . fortran-index/bin/activate
+          ford Fortran_index.md
+
+      - name: Deploy Documentation for main
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: doc      # The folder the action should deploy.
