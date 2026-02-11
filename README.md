@@ -10,6 +10,10 @@ We work on improving Fortran indexing by making group contributions to the
 existing [fortran-lang][fortran-lang] website. The format for our contributions
 is a sequence of semi-regular 2.5-hour hackathons.
 
+The Fortran index [documentation pages](https://fortran-index.github.io) provide
+information about the hackathon series, how the hackathons work, how to get
+involved, and upcoming and past events.
+
 ### Code of conduct
 
 We follow the [code of conduct](https://www.cake.ac.uk/CAKEbox/code-of-conduct/)
@@ -19,7 +23,7 @@ of the Computational Abilities Knowledge Exchange (CAKE) network. See the
 ### Contributing
 
 To find out how to contribute to Fortran index and for details on how to get in
-touch, see the [CONTRIBUTING.md](CONTRIBUTING,md) file.
+touch, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ### Events
 
