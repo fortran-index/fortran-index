@@ -41,11 +41,8 @@ jobs:
     timeout-minutes: 5
     if: ${{ github.event_name != 'pull_request' }}
     permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: write  # We trust the deploy action with write permissions
+      id-token: write  # We trust the deploy action with write permissions
     steps:
       - uses: actions/checkout@v5
         with:
@@ -64,6 +61,8 @@ jobs:
           . fortran-index/bin/activate
           ford Fortran_index.md
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy Documentation for main
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: doc      # The folder the action should deploy.
