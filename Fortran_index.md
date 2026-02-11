@@ -35,12 +35,9 @@ We work on improving Fortran indexing by making group contributions to the
 existing [fortran-lang](https://fortran-lang.org/) website. The format for our
 contributions is a sequence of semi-regular 2.5-hour hackathons.
 
-Code of conduct
----------------
-
-We follow the [code of conduct](https://www.cake.ac.uk/CAKEbox/code-of-conduct/)
-of the Computational Abilities Knowledge Exchange (CAKE) network. See the
-[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) file for more details.
+The Fortran index [documentation pages](|page|/index.html) provide information
+about the hackathon series, how the hackathons work, how to get involved, and
+upcoming and past events.
 
 Events
 ------
@@ -54,24 +51,3 @@ Events
 | 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | Closed                            | [Info](./contributions/2025-12-15/README.md) |
 | 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC](https://sig-rpc.github.io/) collab  | Closed                      | [Info](./contributions/2026-01-26/README.md) |
 | 2026-03-05 | 14:00-16:30 (UTC) | Reworking of package index            | [https://forms.gle/fx3H8FaYJ7UfPRM96](https://forms.gle/fx3H8FaYJ7UfPRM96) | [Info](./contributions/2026-03-15/README.md) |
-
-Funding
--------
-
-Fortran index is supported by a Computational Abilities Knowledge Exchange
-(CAKE) [fellowship](https://www.cake.ac.uk/ke-fellowships/cohort1#joe-wallwork).
-
-
-Contact
---------
-
-If you're interested in participating in a Fortran index hackathon, please get
-in touch with Joe Wallwork ([@joewallwork](https://github.com/joewallwork),
-[jw2423@cam.ac.uk](mailto:jw2423@cam.ac.uk)).
-
-
-License
--------
-
-Files and documentation related to Fortran index are distributed under an
-[MIT License which can be viewed here](|page|/LICENSE.html).
