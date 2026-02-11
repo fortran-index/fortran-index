@@ -3,8 +3,9 @@
 All are welcome to contribute to Fortran index, provided they abide by the
 [code of conduct](https://www.cake.ac.uk/CAKEbox/code-of-conduct/) of the
 Computational Abilities Knowledge Exchange (CAKE) network. See the
-[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) file for more details. Please
-familiarise yourself with its terms before beginning your contribution.
+[CODE_OF_CONDUCT.md](https://github.com/fortran-index/fortran-index/blob/main/CODE_OF_CONDUCT.md)
+file for more details. Please familiarise yourself with its terms before
+beginning your contribution.
 
 ### Ways to contribute
 
