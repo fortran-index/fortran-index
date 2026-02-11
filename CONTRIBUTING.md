@@ -11,21 +11,40 @@ familiarise yourself with its terms before beginning your contribution.
 There are lots of ways to contribute to the Fortran index initiative, as
 detailed below.
 
-#### Open an issue on the Fortran index repository
-
-[TODO: https://github.com/fortran-index/fortran-index/issues/new/choose]
-
 #### Open an issue on the fortran-lang repository
 
-[TODO: https://github.com/fortran-lang/webpage/issues/new/choose]
+To propose an addition, correction, modification, restructuring, or removal from
+the [fortran-lang webpage](https://fortran-lang.org/),
+[open an issue](https://github.com/fortran-lang/webpage/issues/new/choose) on
+the fortran-lang webpage repository.
 
 #### Open a pull request on the fortran-lang repository
 
-[TODO]
+If you have found or opened an issue in the
+[fortran-lang webpage repository](https://github.com/fortran-lang/webpage/issues)
+and would like to start work on it, first read the
+[contribution guidelines](https://fortran-lang.org/community/contributing/). You
+will likely need to fork the
+[fortran-lang webpage repository](https://github.com/fortran-lang/webpage)
+before you can open a pull request. See the
+[setup page](https://fortran-index.github.io/fortran-index/page/hackathons/setup)
+for some tips related to this.
+
+#### Open an issue on the Fortran index repository
+
+To raise an issue related to how the Fortran index repository or documentation
+is structured, or to make a suggestion related to how the hackathon series is
+run,
+[raise an issue](https://github.com/fortran-index/fortran-index/issues/new/choose)
+on the Fortran index repository.
 
 #### Attend a Fortran index hackathon
 
-[TODO]
+The best way to get involved in the Fortran index initiative is to attend a
+hackathon. In these regular virtual events, contributors meet as a group to
+combine our efforts. See the
+[events page](https://fortran-index.github.io/fortran-index/page/hackathons/events)
+for information related to upcoming hackathons, including registration details.
 
 #### Get in touch
 
