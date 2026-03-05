@@ -21,6 +21,8 @@ and pull requests as part of the Fortran index initiative:
   [#630](https://github.com/fortran-lang/webpage/pull/630)
 * Repair activity feed, remove broken contributor chart, modernise layout
   [#633](https://github.com/fortran-lang/webpage/pull/633)
+* Fix Hello World output spacing
+  [#617](https://github.com/fortran-lang/webpage/pull/617)
 
 ## Issues closed
 
