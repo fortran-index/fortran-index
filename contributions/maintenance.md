@@ -6,9 +6,10 @@ and pull requests as part of the Fortran index initiative:
 
 ## Issues opened
 
-* https://github.com/fortran-lang/webpage/issues/627
+* Reduce size of git history
+  [#627](https://github.com/fortran-lang/webpage/issues/627)
 
-## PRs merged
+## PRs reviewed/merged
 
 * Reorder topbar [#612](https://github.com/fortran-lang/webpage/pull/612)
 * Add 'Interoperable' section on front page [#608](https://github.com/fortran-lang/webpage/pull/608)
@@ -16,6 +17,10 @@ and pull requests as part of the Fortran index initiative:
 * Fix sidebar links [#606](https://github.com/fortran-lang/webpage/pull/606)
 * Remove `/en` syntax fix [#587](https://github.com/fortran-lang/webpage/pull/587)
 * Fix highlighting issue [#495](https://github.com/fortran-lang/webpage/pull/495)
+* Fix search box overlap on packages page
+  [#630](https://github.com/fortran-lang/webpage/pull/630)
+* Repair activity feed, remove broken contributor chart, modernise layout
+  [#633](https://github.com/fortran-lang/webpage/pull/633)
 
 ## Issues closed
 
@@ -27,4 +32,5 @@ and pull requests as part of the Fortran index initiative:
 
 # Blog posts contributed
 
-* https://github.com/fortran-lang/webpage/pull/623
+* Fortran index CAKE fellowship
+  [#623](https://github.com/fortran-lang/webpage/pull/623)
