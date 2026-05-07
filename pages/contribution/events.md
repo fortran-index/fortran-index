@@ -1,6 +1,6 @@
 title: Upcoming and past events
 author: Joe Wallwork
-date: Last Updated: March 2026
+date: Last Updated: May 2026
 
 ## Events
 
@@ -16,3 +16,4 @@ the table below.
 | 2025-12-15 | 14:00-16:30 (UTC) | Info on *why* someone would use Fortran | Closed                            | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2025-12-15/README.md) |
 | 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC](https://sig-rpc.github.io/) collab | Closed                       | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-01-26/README.md) |
 | 2026-03-05 | 14:00-16:30 (UTC) | Reworking of package index            | Closed                              | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-03-15/README.md) |
+| 2026-07-22 | 14:00-16:30 (BST) | Reworking of package index            | https://forms.gle/7QjJjs5cDPt2Pbwg9 | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-07-22/README.md) |
