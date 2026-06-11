@@ -37,7 +37,7 @@ touch, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 | 2026-01-26 | 14:00-16:30 (UTC) | [SIG-RPC](https://sig-rpc.github.io/) collab | Closed                       | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-01-26/README.md) |
 | 2026-03-05 | 14:00-16:30 (UTC) | Reworking of package index              | Closed                              | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-03-15/README.md) |
 | 2026-05-01 | 09:30-15:30 (BST) | Hack day at SSI Collaborations Workshop | Closed                              | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-05-01/README.md) |
-| 2026-07-22 | 14:00-16:30 (BST) | Reworking of package index              | https://forms.gle/7QjJjs5cDPt2Pbwg9 | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-07-22/README.md) |
+| 2026-07-22 | 14:00-16:30 (BST) | Reworking of package index              | [https://forms.gle/7QjJjs5cDPt2Pbwg9](https://forms.gle/7QjJjs5cDPt2Pbwg9) | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-07-22/README.md) |
 
 ### Funding
 
