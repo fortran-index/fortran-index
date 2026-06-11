@@ -1,8 +1,6 @@
 ---
 project: Fortran index
-summary: Community initiative for improving knowledge exchange related to the Fortran programming language
 license: mit
-project_github: https://github.com/fortran-index/fortran-index
 github: https://github.com/fortran-index
 page_dir: pages
 media_dir: ./pages/media/
@@ -18,7 +16,7 @@ md_extensions: markdown.extensions.toc
 
 --------------------
 
-![logo](|media|/Fortran_index.svg "Fortran index logo"){width=30%}
+![logo](|media|/Fortran_index.svg "Fortran index logo"){width=20%}
 
 
 Description
