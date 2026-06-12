@@ -2,6 +2,8 @@ title: Celebrating 70 years of Fortran
 author: Joe Wallwork
 date: Last Updated: June 2026
 
+![logo](https://fortran-lang.org/_static/fortran-logo-256x256.png "Fortran-lang logo"){width=20%}
+
 ## Celebrating 70 years of Fortran
 
 Fortran has been supporting scientific software engineering and critical
