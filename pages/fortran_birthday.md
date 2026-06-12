@@ -2,7 +2,9 @@ title: Celebrating 70 years of Fortran
 author: Joe Wallwork
 date: Last Updated: June 2026
 
-![logo](https://fortran-lang.org/_static/fortran-logo-256x256.png "Fortran-lang logo"){width=20%}
+<p align="right">
+  <img width="150" height="150" src="https://fortran-lang.org/_static/fortran-logo-256x256.png">
+</p>
 
 ## Celebrating 70 years of Fortran
 
@@ -14,6 +16,8 @@ Manchester, UK. The timing was chosen to align with
 associated research' - which will be held a short walk away between 2-4 December
 2026.
 
+### Outline
+
 The birthday party event will have three parts:
 
 - 10:00-13:00 - Small community meetings
@@ -22,6 +26,8 @@ The birthday party event will have three parts:
 - 18:15-20:00 - Drinks reception in the exhibition hall by the [Baby][baby]
   computer, which will be demonstrated
 
+### Registration
+
 Attendance will be free of charge, thanks to the support of our funders and
 sponsors including [Computational Abilities and Knowledge Exchange (CAKE)][CAKE]
 and the [Institute of Computing for Climate Science (ICCS)][ICCS].
@@ -29,10 +35,12 @@ and the [Institute of Computing for Climate Science (ICCS)][ICCS].
 A full registration form will be reseased in due course. In the meantime,
 register your interest by completing the ['save the date'][form] form.
 
+### More information
+
 If you have any questions about the event, please contact lead organiser Joe
 Wallwork at jw2423[AT]cam.ac.uk.
 
-Key links:
+#### Key links
 
 - ['Save the date' form to register interest][form]
 - [Provisional workshop programme][programme]
