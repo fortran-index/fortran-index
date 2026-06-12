@@ -13,6 +13,7 @@ associated research' - which will be held a short walk away between 2-4 December
 2026.
 
 The birthday party event will have three parts:
+
 - 10:00-13:00 - Small community meetings
 - 15:00-18:15 - Main workshop (with [provisional programme][programme]) in the
   museum conference suite
@@ -30,6 +31,7 @@ If you have any questions about the event, please contact lead organiser Joe
 Wallwork at jw2423[AT]cam.ac.uk.
 
 Key links:
+
 - ['Save the date' form to register interest][form]
 - [Provisional workshop programme][programme]
 - [Blog post on CAKE fellowship and 70 years of Fortran][blog]
