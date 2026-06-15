@@ -17,6 +17,6 @@ from web developers and those with community sites for programming languages
 other than Fortran.
 
 The funding will also be used to host the first ever in-person Fortran index
-hackathon in Cambridge, UK, in autumn 2026. This will coincide with a birthday
-party to mark 70 years since the first document related to Fortran was
-published. More details related to these events will be posted in due course.
+hackathon in Manchester, UK, in December 2026. This will coincide with a
+[birthday party](|page|/fortran_birthday.html) to mark 70 years since the first
+document related to Fortran was published.
