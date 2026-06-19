@@ -21,7 +21,7 @@ associated research' - which will be held a short walk away between 2-4 December
 The birthday party event will have three parts:
 
 - 10:00-13:00 - Small community meetings
-- 15:00-18:15 - Main workshop (with [provisional programme][programme]) in the
+- 14:30-18:15 - Main workshop (with [provisional programme][programme]) in the
   museum conference suite
 - 18:15-20:00 - Drinks reception in the exhibition hall by the [Baby][baby]
   computer, which will be demonstrated
@@ -32,8 +32,11 @@ Attendance will be free of charge, thanks to the support of our funders and
 sponsors including [Computational Abilities and Knowledge Exchange (CAKE)][CAKE]
 and the [Institute of Computing for Climate Science (ICCS)][ICCS].
 
-A full registration form will be reseased in due course. In the meantime,
+A full registration form will be released in due course. In the meantime,
 register your interest by completing the ['save the date'][form] form.
+
+Whilst it will be a primarily in-person event, there will also be an option to
+join remotely via Zoom.
 
 ### More information
 
