@@ -5,18 +5,19 @@ program fortran_birthday
   character(len=70) :: location = "Science and Industry Museum, Manchester"
 
   ! Hello, World!
-  character(len=70) :: intro = "Welcome"
-  character(len=70) :: thank = "Sponsor lightning talks"
+  character(len=70) :: intro = "Welcome address"
 
   ! Past
   character(len=70) :: keynote = "Where we've been in the past 70 years"
 
-  ! Present: Exciting developments
+  ! Present
+  character(len=70) :: cake = "Cake cutting and coffee break"
+  character(len=70) :: thank = "Sponsor lightning talks"
+  ! Exciting developments
   character(len=70) :: lightning1 = "TBD"
   character(len=70) :: lightning2 = "TBD"
   character(len=70) :: lightning3 = "TBD"
-
-  ! Present: Community initiatives
+  ! Community initiatives
   character(len=70) :: lightning4 = "TBD"
   character(len=70) :: lightning5 = "TBD"
   character(len=70) :: lightning6 = "TBD"
