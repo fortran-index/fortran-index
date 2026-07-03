@@ -9,9 +9,10 @@ date: Last Updated: June 2026
 ## Celebrating 70 years of Fortran
 
 Fortran has been supporting scientific software engineering and critical
-infrastructure for 70 years. To celebrate this, we will be holding a 'birthday
-party' on 1 December 2026 at the [Science and Industry Museum][MOSI], in
-Manchester, UK. The timing was chosen to align with
+infrastructure for 70 years. To celebrate this, the
+[Institute of Computing for Climate Science (ICCS)][ICCS] will be holding a
+'birthday party' on 1 December 2026 at the [Science and Industry Museum][MOSI],
+in Manchester, UK. The timing was chosen to align with
 [Computing Insights UK (CIUK)][CIUK] - 'the UK's premier conference for HPC and
 associated research' - which will be held a short walk away between 2-4 December
 2026.
@@ -30,7 +31,7 @@ The birthday party event will have three parts:
 
 Attendance will be free of charge, thanks to the support of our funders and
 sponsors including [Computational Abilities and Knowledge Exchange (CAKE)][CAKE]
-and the [Institute of Computing for Climate Science (ICCS)][ICCS].
+and [ICCS][ICCS].
 
 A full registration form will be released in due course. In the meantime,
 register your interest by completing the ['save the date'][form] form.
