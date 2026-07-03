@@ -8,6 +8,7 @@ program fortran_birthday
 
   ! Past
   character(len=70) :: keynote = "Where we've been in the past 70 years"
+  character(len=70) :: speaker = "Damian Rouson, Lawrence Berkeley National Lab"
 
   ! Present
   character(len=70) :: cake = "Cake cutting and coffee break"
