@@ -1,8 +1,6 @@
 ! Programme for the 'Celebrating 70 years of Fortran' event
 program fortran_birthday
   implicit none (external)
-  character(len=70) :: date = "2026-12-01"
-  character(len=70) :: location = "Science and Industry Museum, Manchester"
 
   ! Hello, World!
   character(len=70) :: intro = "Welcome"
