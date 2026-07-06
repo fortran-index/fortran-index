@@ -64,8 +64,14 @@ topics when completing the registration form.
 ### Registration
 
 Attendance will be free of charge, thanks to the support of our funders and
-sponsors including [Computational Abilities and Knowledge Exchange (CAKE)][CAKE]
-and [ICCS][ICCS].
+sponsors including [Computational Abilities and Knowledge Exchange
+(CAKE)][CAKE], [OpenMP][OpenMP], and [ICCS][ICCS].
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="|media|/CAKE_logo.png" alt="CAKE logo" style="width: 20%;">
+  <img src="|media|/OpenMP_logo.svg" alt="OpenMP logo" style="width: 50%;">
+  <img src="|media|/ICCS_logo.png" alt="ICCS logo" style="width: 60%;">
+</div>
 
 A full registration form will be released in due course. In the meantime,
 register your interest by completing the ['save the date'][form] form.
@@ -89,6 +95,7 @@ Wallwork at jw2423[AT]cam.ac.uk.
 [programme]: https://fortran-index.github.io/fortran-index/sourcefile/fortran_birthday.f90.html
 [baby]: https://en.wikipedia.org/wiki/Manchester_Baby
 [CAKE]: https://www.cake.ac.uk/
+[OpenMP]: https://www.openmp.org/
 [ICCS]: https://iccs.cam.ac.uk/
 [form]: https://forms.gle/qVTLNZ2Hd2FCXMzz5
 [blog]: https://fortran-lang.org/news/2026/01-23-Fortran-index-blogpost/
