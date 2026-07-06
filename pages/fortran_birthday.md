@@ -35,10 +35,10 @@ available [as a Fortran program][programme]!
 
 #### Past: Keynote address
 
-The main workshop will begin with a keynote address by **Damian Rouson** from
-**Lawrence Berkeley National Laboratory**. Damian's talk will act as a
-retrospective of the past 70 years, covering successes and challenges and
-motivating attendees to see how far we've come.
+<div style="display: flex; align-items: center; gap: 10px;">
+  <p>The main workshop will begin with a keynote address by <strong>Damian Rouson</strong> from <strong>Lawrence Berkeley National Laboratory</strong>. Damian's talk will act as a retrospective of the past 70 years, covering successes and challenges and motivating attendees to see how far we've come.</p>
+  <img src="|media|/Damian.jpeg" alt="Damian Rouson" title="Damian Rouson" style="width: 60%;">
+</div>
 
 #### Present: Lightning talks
 
