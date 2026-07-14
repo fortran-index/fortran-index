@@ -37,7 +37,7 @@ available [as a Fortran program][programme]!
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <p>The main workshop will begin with a keynote address by <strong>Damian Rouson</strong> from <strong>Lawrence Berkeley National Laboratory</strong>. Damian's talk will act as a retrospective of the past 70 years, covering successes and challenges and motivating attendees to see how far we've come.</p>
-  <img src="|media|/Damian.jpeg" alt="Damian Rouson" title="Damian Rouson" style="width: 60%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/Damian.jpeg" alt="Damian Rouson" title="Damian Rouson" style="width: 60%;">
 </div>
 
 #### Present: Lightning talks
@@ -68,9 +68,9 @@ sponsors including [Computational Abilities and Knowledge Exchange
 (CAKE)][CAKE], [OpenMP][OpenMP], and [ICCS][ICCS].
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="|media|/CAKE_logo.png" alt="CAKE logo" style="width: 20%;">
-  <img src="|media|/OpenMP_logo.svg" alt="OpenMP logo" style="width: 50%;">
-  <img src="|media|/ICCS_logo.png" alt="ICCS logo" style="width: 60%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/CAKE_logo.png" alt="CAKE logo" style="width: 20%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media//OpenMP_logo.svg" alt="OpenMP logo" style="width: 50%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media//ICCS_logo.png" alt="ICCS logo" style="width: 60%;">
 </div>
 
 A full registration form will be released in due course. In the meantime,
