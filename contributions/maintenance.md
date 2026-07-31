@@ -35,6 +35,8 @@ and pull requests as part of the Fortran index initiative:
 * Improve governance findability
   [#668](https://github.com/fortran-lang/webpage/pull/668)
 * Update community links [#666](https://github.com/fortran-lang/webpage/pull/666)
+* Add link to Fortran 2023 interpretation document
+  [#667](https://github.com/fortran-lang/webpage/pull/667)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
@@ -45,6 +47,7 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/686
   * https://github.com/fortran-lang/webpage/pull/659
   * https://github.com/fortran-lang/webpage/pull/648
+  * https://github.com/fortran-lang/webpage/pull/688
 
 ## Issues closed
 
