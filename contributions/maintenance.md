@@ -13,7 +13,6 @@ and pull requests as part of the Fortran index initiative:
 
 * Reorder topbar [#612](https://github.com/fortran-lang/webpage/pull/612)
 * Add 'Interoperable' section on front page [#608](https://github.com/fortran-lang/webpage/pull/608)
-* Add diffstruc to package index [#603](https://github.com/fortran-lang/webpage/pull/603)
 * Fix sidebar links [#606](https://github.com/fortran-lang/webpage/pull/606)
 * Remove `/en` syntax fix [#587](https://github.com/fortran-lang/webpage/pull/587)
 * Fix highlighting issue [#495](https://github.com/fortran-lang/webpage/pull/495)
@@ -23,6 +22,29 @@ and pull requests as part of the Fortran index initiative:
   [#633](https://github.com/fortran-lang/webpage/pull/633)
 * Fix Hello World output spacing
   [#617](https://github.com/fortran-lang/webpage/pull/617)
+* Repair activity feed [#633](https://github.com/fortran-lang/webpage/pull/633)
+* Fix package search bar [#643](https://github.com/fortran-lang/webpage/pull/643)
+* Fix search box overlap [#640](https://github.com/fortran-lang/webpage/pull/640)
+* Improve build script error handling
+  [#654](https://github.com/fortran-lang/webpage/pull/654)
+* Mention gfortran dependency
+  [#683](https://github.com/fortran-lang/webpage/pull/683)
+* Fix comment [#689](https://github.com/fortran-lang/webpage/pull/689)
+* Avoid general exception
+  [#690](https://github.com/fortran-lang/webpage/pull/690)
+* Improve governance findability
+  [#668](https://github.com/fortran-lang/webpage/pull/668)
+* Update community links [#666](https://github.com/fortran-lang/webpage/pull/666)
+* Add or update package index packages:
+  * https://github.com/fortran-lang/webpage/pull/670
+  * https://github.com/fortran-lang/webpage/pull/603
+  * https://github.com/fortran-lang/webpage/pull/661
+  * https://github.com/fortran-lang/webpage/pull/698
+  * https://github.com/fortran-lang/webpage/pull/697
+* Dependabot:
+  * https://github.com/fortran-lang/webpage/pull/686
+  * https://github.com/fortran-lang/webpage/pull/659
+  * https://github.com/fortran-lang/webpage/pull/648
 
 ## Issues closed
 
@@ -31,8 +53,10 @@ and pull requests as part of the Fortran index initiative:
 * https://github.com/fortran-lang/webpage/issues/526
 * https://github.com/fortran-lang/webpage/issues/481
 * https://github.com/fortran-lang/webpage/issues/255
+* https://github.com/fortran-lang/webpage/issues/397
 
-# Blog posts contributed
+## Blog posts contributed
 
 * Fortran index CAKE fellowship
   [#623](https://github.com/fortran-lang/webpage/pull/623)
+* Blog post on BTTFF3 [#687](https://github.com/fortran-lang/webpage/pull/687)
