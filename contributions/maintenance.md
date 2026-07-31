@@ -37,6 +37,11 @@ and pull requests as part of the Fortran index initiative:
 * Update community links [#666](https://github.com/fortran-lang/webpage/pull/666)
 * Add link to Fortran 2023 interpretation document
   [#667](https://github.com/fortran-lang/webpage/pull/667)
+* Floating point numbers comparison
+  [#496](https://github.com/fortran-lang/webpage/pull/496)
+* Fix Python output [#458](https://github.com/fortran-lang/webpage/pull/458)
+* Add Fortran snippet to front page
+  [#600](https://github.com/fortran-lang/webpage/pull/600)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
