@@ -9,6 +9,13 @@ and pull requests as part of the Fortran index initiative:
 * Reduce size of git history
   [#627](https://github.com/fortran-lang/webpage/issues/627)
 
+## PRs opened
+
+* Add Enzyme to package index
+  [#705](https://github.com/fortran-lang/webpage/pull/705)
+* Update deep learning packages
+  [#706](https://github.com/fortran-lang/webpage/pull/706)
+
 ## PRs reviewed/merged
 
 * Reorder topbar [#612](https://github.com/fortran-lang/webpage/pull/612)
@@ -53,6 +60,7 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/659
   * https://github.com/fortran-lang/webpage/pull/648
   * https://github.com/fortran-lang/webpage/pull/688
+  * https://github.com/fortran-lang/webpage/pull/702
 
 ## Issues closed
 
