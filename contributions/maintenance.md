@@ -15,6 +15,8 @@ and pull requests as part of the Fortran index initiative:
   [#705](https://github.com/fortran-lang/webpage/pull/705)
 * Update deep learning packages
   [#706](https://github.com/fortran-lang/webpage/pull/706)
+* Fix package index path in README
+  [fpm-find:#7](https://github.com/BerkeleyLab/fpm-find/pull/7)
 
 ## PRs reviewed/merged
 
