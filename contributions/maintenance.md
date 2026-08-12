@@ -57,12 +57,14 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/661
   * https://github.com/fortran-lang/webpage/pull/698
   * https://github.com/fortran-lang/webpage/pull/697
+  * https://github.com/fortran-lang/webpage/pull/707
 * Dependabot:
   * https://github.com/fortran-lang/webpage/pull/686
   * https://github.com/fortran-lang/webpage/pull/659
   * https://github.com/fortran-lang/webpage/pull/648
   * https://github.com/fortran-lang/webpage/pull/688
   * https://github.com/fortran-lang/webpage/pull/702
+  * https://github.com/fortran-lang/webpage/pull/701
 
 ## Issues closed
 
