@@ -1,27 +1,39 @@
 ! Programme for the 'Celebrating 70 years of Fortran' event
 program fortran_birthday
-  implicit none (external)
-  character(len=70) :: morning = "Small group meetings"
+  implicit none (type, external)
+  character(len=70) :: timeline(-1:2)
+  character(len=70) :: morning1, morning2, intro, keynote, cake, lightning1, &
+                       lightning2(3), lightning3(3), breakout, outro, evening
 
-  ! Hello, World!
-  character(len=70) :: intro = "Welcome to main workshop"
+  timeline(-1) = "Fortran birthday" ! Tuesday 1 December 2026
+  timeline(0) = "CIUK day 0"        ! Wednesday 2 December 2026
+  timeline(1) = "CIUK day 1"        ! Thursday 3 December 2026
+  timeline(2) = "CIUK day 2"        ! Friday 4 December 2026
 
-  ! Past
-  character(len=70) :: keynote = "Where we've been in the past 70 years"
-  character(len=70) :: speaker = "Damian Rouson, Lawrence Berkeley National Lab"
+  ! 10:00-13:00 Morning parallel small group meetings
+  morning1 = "Fortran index hackathon"
+  morning2 = "Fortran testing code clinic"
 
-  ! Present
-  character(len=70) :: cake = "Cake cutting and coffee break"
-  character(len=70) :: thank = "Sponsor lightning talks"
-  ! Exciting developments
-  character(len=70) :: lightning1(3) = ["TBD", "TBD", "TBD"]
-  ! Community initiatives
-  character(len=70) :: lightning2(3) = ["TBD", "TBD", "TBD"]
+  ! --- Main workshop
 
-  ! Future
-  character(len=70) :: announcement = "FortranFuture"
-  character(len=70) :: breakout = "The next 70 years"
-  character(len=70) :: outro = "Close of main workshop"
+  ! 15:00-15:10 'Hello, World!'
+  intro = "Welcome to main workshop"
 
-  character(len=70) :: evening = "Drinks reception"
+  ! 15:10-15:50 'Past'
+  keynote = "Damian Rouson, Lawrence Berkeley National Lab"
+
+  ! 15:50-17:00 'Present'
+  cake = "Cake cutting and coffee break"
+  lightning1 = "Sponsor lightning talks"
+  lightning2(:) = ["TBD", "TBD", "TBD"]  ! Exciting developments
+  lightning3(:) = ["TBD", "TBD", "TBD"]  ! Community initiatives
+
+  ! 17:00-18:15 'Future'
+  breakout = "Breakout discussion looking to the next 70 years"
+  outro = "Close of main workshop"
+
+  ! --- End of main workshop
+
+  ! 18:15-20:00 Social
+  evening = "Drinks reception"
 end program fortran_birthday
