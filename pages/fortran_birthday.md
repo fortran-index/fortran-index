@@ -61,17 +61,37 @@ stages and from across academia, government, industry, vendors, and funders.
 There will be an opportunity to share any suggestions you have for discussion
 topics when completing the registration form.
 
+### Sponsors
+
+This event could not have been possible without the generous support of our
+sponsors. We are delighted to announce that the following organisations have
+agreed to sponsor the event.
+
+#### Platinum sponsors: [AMD][AMD] and [Dell Technologies][Dell].
+
+<div style="display: flex; flex-direction: column; align-items: center;
+  gap: 20px; margin-top: 60px;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/AMD_logo.png" alt="AMD logo" style="width: 60%;">
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center;
+  gap: 20px; margin-top: 60px; margin-bottom: 60px;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/Dell_logo.png" alt="Dell logo" style="width: 60%;">
+</div>
+
+#### Bronze sponsors: [CAKE][CAKE], [OpenMP][OpenMP], and [ICCS][ICCS].
+
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 40px;
+  margin-bottom: 40px;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/CAKE_logo.png" alt="CAKE logo" style="width: 20%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/OpenMP_logo.svg" alt="OpenMP logo" style="width: 50%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/ICCS_logo.png" alt="ICCS logo" style="width: 40%;">
+</div>
+
 ### Registration
 
 Attendance will be free of charge, thanks to the support of our funders and
-sponsors including [Computational Abilities and Knowledge Exchange
-(CAKE)][CAKE], [OpenMP][OpenMP], and [ICCS][ICCS].
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/CAKE_logo.png" alt="CAKE logo" style="width: 20%;">
-  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media//OpenMP_logo.svg" alt="OpenMP logo" style="width: 50%;">
-  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media//ICCS_logo.png" alt="ICCS logo" style="width: 60%;">
-</div>
+sponsors.
 
 A full registration form will be released in due course. In the meantime,
 register your interest by completing the ['save the date'][form] form.
@@ -94,6 +114,8 @@ Wallwork at jw2423[AT]cam.ac.uk.
 [CIUK]: https://www.sc.stfc.ac.uk/ciuk-2026/
 [programme]: https://fortran-index.github.io/fortran-index/sourcefile/fortran_birthday.f90.html
 [baby]: https://en.wikipedia.org/wiki/Manchester_Baby
+[AMD]: https://www.amd.com/en.html
+[Dell]: https://www.dell.com/en-uk
 [CAKE]: https://www.cake.ac.uk/
 [OpenMP]: https://www.openmp.org/
 [ICCS]: https://iccs.cam.ac.uk/
