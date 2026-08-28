@@ -71,12 +71,12 @@ agreed to sponsor the event.
 
 <div style="display: flex; flex-direction: column; align-items: center;
   gap: 20px; margin-top: 60px;">
-  <img src="|media|/AMD_logo.png" alt="AMD logo" style="width: 60%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/AMD_logo.png" alt="AMD logo" style="width: 60%;">
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center;
   gap: 20px; margin-top: 60px; margin-bottom: 60px;">
-  <img src="|media|/Dell_logo.png" alt="Dell logo" style="width: 60%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/Dell_logo.png" alt="Dell logo" style="width: 60%;">
 </div>
 
 #### Bronze sponsors: [CAKE][CAKE], [OpenMP][OpenMP], and [ICCS][ICCS].
@@ -85,7 +85,7 @@ agreed to sponsor the event.
   margin-bottom: 40px;">
   <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/CAKE_logo.png" alt="CAKE logo" style="width: 20%;">
   <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/OpenMP_logo.svg" alt="OpenMP logo" style="width: 50%;">
-  <img src="|media|/ICCS_logo.png" alt="ICCS logo" style="width: 40%;">
+  <img src="https://raw.githubusercontent.com/fortran-index/fortran-index/refs/heads/main/pages/media/ICCS_logo.png" alt="ICCS logo" style="width: 40%;">
 </div>
 
 ### Registration
