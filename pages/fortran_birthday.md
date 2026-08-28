@@ -1,6 +1,6 @@
 title: Celebrating 70 years of Fortran
 author: Joe Wallwork
-date: Last Updated: July 2026
+date: Last Updated: August 2026
 
 <p align="right">
   <img width="150" height="150" src="https://fortran-lang.org/_static/fortran-logo-256x256.png">
