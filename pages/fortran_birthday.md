@@ -1,6 +1,6 @@
 title: Celebrating 70 years of Fortran
 author: Joe Wallwork
-date: Last Updated: August 2026
+date: Last Updated: September 2026
 
 <p align="right">
   <img width="150" height="150" src="https://fortran-lang.org/_static/fortran-logo-256x256.png">
@@ -93,11 +93,13 @@ agreed to sponsor the event.
 Attendance will be free of charge, thanks to the support of our funders and
 sponsors.
 
-A full registration form will be released in due course. In the meantime,
-register your interest by completing the ['save the date'][form] form.
+To register, complete the following form:
+[https://forms.gle/NjXfManJWmwLX7sc7][form].
 
 Whilst it will be a primarily in-person event, there will also be an option to
 join remotely via Zoom.
+
+**Registration will close on 9th November 2026.**
 
 ### More information
 
@@ -106,8 +108,8 @@ Wallwork at jw2423[AT]cam.ac.uk.
 
 #### Key links
 
-- ['Save the date' form to register interest][form]
-- [Provisional workshop programme][programme]
+- [Registration form][form]
+- [Workshop programme][programme]
 - [Blog post on CAKE fellowship and 70 years of Fortran][blog]
 
 [MOSI]: https://www.scienceandindustrymuseum.org.uk/
@@ -119,5 +121,5 @@ Wallwork at jw2423[AT]cam.ac.uk.
 [CAKE]: https://www.cake.ac.uk/
 [OpenMP]: https://www.openmp.org/
 [ICCS]: https://iccs.cam.ac.uk/
-[form]: https://forms.gle/qVTLNZ2Hd2FCXMzz5
+[form]: https://forms.gle/NjXfManJWmwLX7sc7
 [blog]: https://fortran-lang.org/news/2026/01-23-Fortran-index-blogpost/

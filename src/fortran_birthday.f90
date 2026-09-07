@@ -2,8 +2,9 @@
 program fortran_birthday
   implicit none (type, external)
   character(len=70) :: timeline(-1:2)
-  character(len=70) :: morning1, morning2, intro, keynote, cake, lightning1, &
-                       lightning2(3), lightning3(3), breakout, outro, evening
+  character(len=70) :: morning1, morning2, arrival, intro, keynote, cake, &
+                       lightning1, lightning2(3), lightning3(3), breakout, &
+                       outro, evening
 
   timeline(-1) = "Fortran birthday" ! Tuesday 1 December 2026
   timeline(0) = "CIUK day 0"        ! Wednesday 2 December 2026
@@ -16,7 +17,8 @@ program fortran_birthday
 
   ! --- Main workshop
 
-  ! 15:00-15:10 'Hello, World!'
+  ! 14:30-15:10 'Hello, World!'
+  arrival = "Registration"
   intro = "Welcome to main workshop"
 
   ! 15:10-15:50 'Past'

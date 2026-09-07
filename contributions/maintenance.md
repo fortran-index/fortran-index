@@ -51,6 +51,8 @@ and pull requests as part of the Fortran index initiative:
 * Fix Python output [#458](https://github.com/fortran-lang/webpage/pull/458)
 * Add Fortran snippet to front page
   [#600](https://github.com/fortran-lang/webpage/pull/600)
+* Add Ruff linting CI workflow
+  [#711](https://github.com/fortran-lang/webpage/pull/711)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
@@ -74,6 +76,7 @@ and pull requests as part of the Fortran index initiative:
 * https://github.com/fortran-lang/webpage/issues/481
 * https://github.com/fortran-lang/webpage/issues/255
 * https://github.com/fortran-lang/webpage/issues/397
+* Hacktoberfest 2026 [#639](https://github.com/fortran-lang/webpage/issues/639)
 
 ## Blog posts contributed
 
