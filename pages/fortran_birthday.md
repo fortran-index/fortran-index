@@ -103,8 +103,10 @@ join remotely via Zoom.
 
 ### More information
 
-If you have any questions about the event, please contact lead organiser Joe
-Wallwork at jw2423[AT]cam.ac.uk.
+If you have any questions about the event programme, please contact lead
+organiser Joe Wallwork at `jw2423[AT]cam.ac.uk`. For administrative and
+organisational queries, please contact the ICCS Operations Team at
+`iccs[AT]maths.cam.ac.uk`.
 
 #### Key links
 
