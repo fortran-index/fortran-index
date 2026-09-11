@@ -24,7 +24,8 @@ The birthday party event will have three parts:
 - 10:00-13:00 - Small community meetings.
 - 14:30-18:15 - Main workshop in the museum conference suite.
 - 18:15-20:00 - Drinks reception in the exhibition hall, including a
-                demonstration of the [Baby][baby] computer.
+                demonstration of the [Baby][baby] computer and poster
+                presentations.
 
 ### Workshop programme
 
@@ -48,9 +49,8 @@ a refreshment break!
 There will also be a number of short talks, including sponsor talks on the
 Fortran work they support, lightning talks on exciting developments underway
 right now, and lightning talks on community initiatives that are making waves.
-There will be an opportunity to share any suggestions you have for lightning
-talk topics or speakers when completing the registration form. Ideally, we would
-like to hear from early- and mid-career members of the community.
+You can submit lightning talk proposals in the registration form. Ideally, we
+would like to hear from early- and mid-career members of the community.
 
 #### Future: Break-out discussion
 
