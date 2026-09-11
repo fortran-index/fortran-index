@@ -112,6 +112,7 @@ organisational queries, please contact the ICCS Operations Team at
 
 - [Registration form][form]
 - [Workshop programme][programme]
+- [Event page on ICCS website][event]
 - [Blog post on CAKE fellowship and 70 years of Fortran][blog]
 
 [MOSI]: https://www.scienceandindustrymuseum.org.uk/
@@ -124,4 +125,5 @@ organisational queries, please contact the ICCS Operations Team at
 [OpenMP]: https://www.openmp.org/
 [ICCS]: https://iccs.cam.ac.uk/
 [form]: https://forms.gle/NjXfManJWmwLX7sc7
+[event]: https://iccs.cam.ac.uk/events/celebrating-70-years-fortran
 [blog]: https://fortran-lang.org/news/2026/01-23-Fortran-index-blogpost/
