@@ -20,7 +20,7 @@ the table below.
 | 2026-06-16 | 16:30-18:00 (BST) | Fortran community meetup, Durham HPC days | Closed                              | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-06-16/README.md) |
 | 2026-06-17 | 16:30-18:00 (BST) | CAKE session, Durham HPC days             | Closed                              | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-06-17/README.md) |
 | 2026-07-22 | 14:00-16:30 (BST) | Hackathon 7: Reworking package index      | Closed                              | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-07-22/README.md) |
-| 2026-10-15 | 14:00-16:30 (UTC) | Hackathon 8: Filtering by statistics      | [https://forms.gle/D8JkBUbJFPPqjUVF8](https://forms.gle/D8JkBUbJFPPqjUVF8) | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-10-15/README.md) |
+| 2026-10-06 | 14:00-16:30 (UTC) | Hackathon 8: Filtering by statistics      | [https://forms.gle/D8JkBUbJFPPqjUVF8](https://forms.gle/D8JkBUbJFPPqjUVF8) | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-10-06/README.md) |
 | 2026-12-01 | 10:00-13:00 (UTC) | Hackathon 9 (in-person!)                  | [https://forms.gle/NjXfManJWmwLX7sc7](https://forms.gle/NjXfManJWmwLX7sc7) | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-12-01/README.md) |
 | 2026-12-01 | 14:30-20:00 (UTC) | [Celebrating 70 years of Fortran][bday] | [https://forms.gle/NjXfManJWmwLX7sc7](https://forms.gle/NjXfManJWmwLX7sc7) | [Info](https://github.com/fortran-index/fortran-index/blob/main/contributions/2026-12-01/README.md) |
 
