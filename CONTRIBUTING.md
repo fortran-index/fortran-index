@@ -44,7 +44,7 @@ on the Fortran index repository.
 The best way to get involved in the Fortran index initiative is to attend a
 hackathon. In these regular virtual events, contributors meet as a group to
 combine our efforts. See the
-[events page](https://fortran-index.github.io/fortran-index/page/hackathons/events)
+[events page](https://fortran-index.github.io/fortran-index/page/contribution/events.html)
 for information related to upcoming hackathons, including registration details.
 
 #### Get in touch
