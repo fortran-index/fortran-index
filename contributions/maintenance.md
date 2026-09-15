@@ -17,6 +17,8 @@ and pull requests as part of the Fortran index initiative:
   [#706](https://github.com/fortran-lang/webpage/pull/706)
 * Fix package index path in README
   [fpm-find:#7](https://github.com/BerkeleyLab/fpm-find/pull/7)
+* Add Fortran birthday blog post
+  [#714](https://github.com/fortran-lang/webpage/pull/714)
 
 ## PRs reviewed/merged
 
