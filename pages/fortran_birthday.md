@@ -113,7 +113,8 @@ organisational queries, please contact the ICCS Operations Team at
 - [Registration form][form]
 - [Workshop programme][programme]
 - [Event page on ICCS website][event]
-- [Blog post on CAKE fellowship and 70 years of Fortran][blog]
+- [Blog post on CAKE fellowship and marking 70 years of Fortran][blog1]
+- [Blog post on 'Celebrating 70 years of Fortran' event][blog2]
 
 [MOSI]: https://www.scienceandindustrymuseum.org.uk/
 [CIUK]: https://www.sc.stfc.ac.uk/ciuk-2026/
@@ -126,4 +127,5 @@ organisational queries, please contact the ICCS Operations Team at
 [ICCS]: https://iccs.cam.ac.uk/
 [form]: https://forms.gle/NjXfManJWmwLX7sc7
 [event]: https://iccs.cam.ac.uk/events/celebrating-70-years-fortran
-[blog]: https://fortran-lang.org/news/2026/01-23-Fortran-index-blogpost/
+[blog1]: https://fortran-lang.org/news/2026/01-23-Fortran-index-blogpost/
+[blog2]: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
