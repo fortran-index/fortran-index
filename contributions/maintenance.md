@@ -55,6 +55,8 @@ and pull requests as part of the Fortran index initiative:
   [#600](https://github.com/fortran-lang/webpage/pull/600)
 * Add Ruff linting CI workflow
   [#711](https://github.com/fortran-lang/webpage/pull/711)
+* Add blog for gathering legacy code patterns
+  [#713](https://github.com/fortran-lang/webpage/pull/713)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
@@ -70,6 +72,7 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/702
   * https://github.com/fortran-lang/webpage/pull/701
   * https://github.com/fortran-lang/webpage/pull/710
+  * https://github.com/fortran-lang/webpage/pull/709
 
 ## Issues closed
 
