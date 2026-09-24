@@ -30,14 +30,14 @@ Fortran index is a community initiative that aims to improve the usefulness of F
 
 ### Fortran-lang webpage submodule
 
-> [!TODO]
-> Replace 'codebase1' with the codebase name and add high-level info on what the
-> codebase is and how it's laid out.
+- The Fortran-lang webpage is built using Sphinx.
+- See the [quick start](#quick-start) section for instructions on setting up the environment and building the webpage.
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributing to Fortran-lang.
 
 ## Quick start
 
 - Set up the Python environment my running `source setup.sh`
-- Build the Fortran index website by running `./build.sh`
+- Build the Fortran index and Fortran-lang websites by running `./build.sh`
 
 ## Project goal
 
