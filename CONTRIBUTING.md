@@ -39,6 +39,22 @@ run,
 [raise an issue](https://github.com/fortran-index/fortran-index/issues/new/choose)
 on the Fortran index repository.
 
+#### Work on an issue
+
+The Fortran-lang webpage is included in this repository under the
+`fortran_lang_webpage` submodule. To set it up, run
+```sh
+git submodule init
+git submodule update
+```
+
+If you don't have push access to Fortran-lang, you will need to use your own
+fork or the one hosted on the [Fortran index GitHub
+organisation](https://github.com/fortran-index/fortran-lang-webpage).
+
+Be sure to follow the contribution guidance referenced above before making
+contributions.
+
 #### Attend a Fortran index hackathon
 
 The best way to get involved in the Fortran index initiative is to attend a
