@@ -36,7 +36,8 @@ Fortran index is a community initiative that aims to improve the usefulness of F
 
 ## Quick start
 
-- Set up the Python environment my running `source setup.sh`
+- Set up a Python virtual environment and `pip` install both [requirements-dev.txt](requirements-dev.txt) and also Fortran-lang's [requirements.txt](fortran_lang_webpage/requirements.txt).
+- Activate the Python environment by running `source setup.sh`
 - Build the Fortran index and Fortran-lang websites by running `./build.sh`
 
 ## Project goal
