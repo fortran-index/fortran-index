@@ -16,6 +16,7 @@ Fortran index is a community initiative that aims to improve the usefulness of F
 
 - The `.agents/` subdirectory contains agent-specific resources.
 - The `.agents/skills` submodule contains skills that the RSE team often works with. Make use of the following skills in this project:
+  - [fortitude](.agents/skills/skills/fortitude.md)
   - [ford](.agents/skills/skills/ford.md)
 
 ### Knowledge
@@ -35,9 +36,8 @@ Fortran index is a community initiative that aims to improve the usefulness of F
 
 ## Quick start
 
-- Set up the environment my running `source setup.sh`
-- Build the project by running `./build.sh`
-- Run the project's test suite with `./test.sh`
+- Set up the Python environment my running `source setup.sh`
+- Build the Fortran index website by running `./build.sh`
 
 ## Project goal
 
