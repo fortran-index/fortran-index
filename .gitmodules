@@ -1,3 +1,6 @@
 [submodule "fortran-lang-webpage"]
 	path = fortran_lang_webpage
 	url = git@github.com:fortran-lang/webpage.git
+[submodule ".agents/skills"]
+	path = .agents/skills
+	url = git@github.com:Cambridge-ICCS/ICCS-SKILLS.git
