@@ -8,6 +8,8 @@ and pull requests as part of the Fortran index initiative:
 
 * Reduce size of git history
   [#627](https://github.com/fortran-lang/webpage/issues/627)
+* Add `build-systems` property to packages
+  [#718](https://github.com/fortran-lang/webpage/issues/718)
 
 ## PRs opened
 
@@ -57,6 +59,10 @@ and pull requests as part of the Fortran index initiative:
   [#711](https://github.com/fortran-lang/webpage/pull/711)
 * Add blog for gathering legacy code patterns
   [#713](https://github.com/fortran-lang/webpage/pull/713)
+* Add more compilers
+  [#712](https://github.com/fortran-lang/webpage/pull/712)
+* Add `build-systems` property
+  [#716](https://github.com/fortran-lang/webpage/pull/716)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
@@ -64,6 +70,8 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/698
   * https://github.com/fortran-lang/webpage/pull/697
   * https://github.com/fortran-lang/webpage/pull/707
+  * https://github.com/fortran-lang/webpage/pull/704
+  * https://github.com/fortran-lang/webpage/pull/708
 * Dependabot:
   * https://github.com/fortran-lang/webpage/pull/686
   * https://github.com/fortran-lang/webpage/pull/659
@@ -73,6 +81,7 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/701
   * https://github.com/fortran-lang/webpage/pull/710
   * https://github.com/fortran-lang/webpage/pull/709
+  * https://github.com/fortran-lang/webpage/pull/717
 
 ## Issues closed
 
