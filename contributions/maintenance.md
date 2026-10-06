@@ -63,6 +63,8 @@ and pull requests as part of the Fortran index initiative:
   [#712](https://github.com/fortran-lang/webpage/pull/712)
 * Add `build-systems` property
   [#716](https://github.com/fortran-lang/webpage/pull/716)
+* Further tags consistency
+  [#719](https://github.com/fortran-lang/webpage/pull/719)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
