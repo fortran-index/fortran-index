@@ -25,6 +25,8 @@ Number of attendees: 6
   [#726](https://github.com/fortran-lang/webpage/pull/726)
 - Revert to deleting `_data` dir
   [#727](https://github.com/fortran-lang/webpage/pull/727)
+- Keep `_data` dir but force delete JSON contents
+  [#728](https://github.com/fortran-lang/webpage/pull/728)
 
 ## Reviews
 
