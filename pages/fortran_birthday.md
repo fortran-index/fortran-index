@@ -99,7 +99,9 @@ To register, complete the following form:
 Whilst it will be a primarily in-person event, there will also be an option to
 join remotely via Zoom.
 
-**Registration will close on 9th November 2026.**
+**~~Registration will close on 9th November 2026~~.**
+
+**The registration deadline has been extended to 16th November 2026.**
 
 ### More information
 
