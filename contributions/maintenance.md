@@ -69,6 +69,10 @@ and pull requests as part of the Fortran index initiative:
   [#621](https://github.com/fortran-lang/webpage/pull/621)
 * Scope package search to package index
   [#730](https://github.com/fortran-lang/webpage/pull/730)
+* Replace Twitter logo and links with X
+  [#735](https://github.com/fortran-lang/webpage/pull/735)
+* Scope package search to package index
+  [#730](https://github.com/fortran-lang/webpage/pull/730)
 * Add or update package index packages:
   * https://github.com/fortran-lang/webpage/pull/670
   * https://github.com/fortran-lang/webpage/pull/603
@@ -88,6 +92,8 @@ and pull requests as part of the Fortran index initiative:
   * https://github.com/fortran-lang/webpage/pull/710
   * https://github.com/fortran-lang/webpage/pull/709
   * https://github.com/fortran-lang/webpage/pull/717
+  * https://github.com/fortran-lang/webpage/pull/736
+  * https://github.com/fortran-lang/webpage/pull/737
 
 ## Issues closed
 
