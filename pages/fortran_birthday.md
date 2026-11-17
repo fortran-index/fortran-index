@@ -1,6 +1,6 @@
 title: Celebrating 70 years of Fortran
 author: Joe Wallwork
-date: Last Updated: September 2026
+date: Last Updated: November 2026
 
 <p align="right">
   <img width="150" height="150" src="https://fortran-lang.org/_static/fortran-logo-256x256.png">
@@ -99,7 +99,9 @@ To register, complete the following form:
 Whilst it will be a primarily in-person event, there will also be an option to
 join remotely via Zoom.
 
-**The registration deadline has been extended to 16th November 2026.**
+**Registration are now subject to availability. You will receive a calendar
+invite as confirmation if your registration is successful upon completing the
+form.**
 
 ### More information
 
