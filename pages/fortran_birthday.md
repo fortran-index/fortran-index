@@ -49,8 +49,18 @@ a refreshment break!
 There will also be a number of short talks, including sponsor talks on the
 Fortran work they support, lightning talks on exciting developments underway
 right now, and lightning talks on community initiatives that are making waves.
-You can submit lightning talk proposals in the registration form. Ideally, we
-would like to hear from early- and mid-career members of the community.
+
+##### Exciting developments
+
+1. *HSL: 60+ Years of Numerical Software in Fortran* - **Jennifer Scott, Rutherford Appleton Laboratory**
+2. *LFortran: Compiling Production Packages and Offloading to GPUs* - **Ondřej Čertík, Microsoft**
+3. *Fortitude: A Modern Fortran Linter* - **Liam Pattinson, University of York**
+
+##### Community initiatives
+
+1. *The UK Fortran Standards Committee* - **Christopher Brady, University of Warwick**
+2. *Rebooting the UK’s Fortran Special Interest Group* - **Austen Rainer, Queen's University Belfast**
+3. *The FortranFuture Network* - **Andrew Brown, Queen's University Belfast**
 
 #### Future: Break-out discussion
 
@@ -58,8 +68,6 @@ The main workshop will culminate in an extended break-out discussion on the next
 70 years and what direction we as a community would like the Fortran language
 and its community to go in. We would like to hear from everyone, from all career
 stages and from across academia, government, industry, vendors, and funders.
-There will be an opportunity to share any suggestions you have for discussion
-topics when completing the registration form.
 
 ### Sponsors
 
