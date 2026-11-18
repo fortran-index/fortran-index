@@ -69,6 +69,15 @@ The main workshop will culminate in an extended break-out discussion on the next
 and its community to go in. We would like to hear from everyone, from all career
 stages and from across academia, government, industry, vendors, and funders.
 
+#### Poster presentations
+
+Posters will be presented during the drinks reception.
+
+1. *Fortran usage statistics from the UK national HPC service ARCHER2* - **Andy Turner, EPCC**
+2. *FLight: A Mechanised Semantics for a Subset of Fortran* - **Nikolaus Huber and Dominic Orchard, University of Cambridge**
+3. *PSyclone: a Fortran code-transformation framework for performance portability* - **Aidan Chalk and Andy Porter, STFC**
+4. *Massively-parallel first-principles materials simulations with CASTEP* - **Phil Hasnip, University of York**
+
 ### Sponsors
 
 This event could not have been possible without the generous support of our
