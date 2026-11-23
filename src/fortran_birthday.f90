@@ -2,7 +2,7 @@
 program fortran_birthday
   implicit none (type, external)
   character(len=70) :: timeline(-1:2)
-  character(len=70) :: morning1, morning2, arrival, intro, keynote, cake, &
+  character(len=70) :: morning1, morning2, arrival, intro, keynote, break, &
                        lightning1, lightning2(3), lightning3(3), breakout, &
                        outro, evening
 
@@ -25,10 +25,10 @@ program fortran_birthday
   keynote = "Damian Rouson, Lawrence Berkeley National Lab"
 
   ! 15:50-17:00 'Present'
-  cake = "Cake cutting and coffee break"
+  break = "Coffee break"
   lightning1 = "Sponsor lightning talks"
-  lightning2(:) = ["TBD", "TBD", "TBD"]  ! Exciting developments
-  lightning3(:) = ["TBD", "TBD", "TBD"]  ! Community initiatives
+  lightning2(:) = ["HSL", "LFortran", "Fortitude"]  ! Exciting developments
+  lightning3(:) = ["Committee", "SIG", "FortranFuture"]  ! Community initiatives
 
   ! 17:00-18:15 'Future'
   breakout = "Breakout discussion looking to the next 70 years"
