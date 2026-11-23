@@ -21,11 +21,45 @@ associated research' - which will be held a short walk away between 2-4 December
 
 The birthday party event will have three parts:
 
-- 10:00-13:00 - Small community meetings.
+- 10:00-13:00 - Parallel small community meetings: Fortran index hackathon and
+                Fortran testing code clinic.
 - 14:30-18:15 - Main workshop in the museum conference suite.
 - 18:15-20:00 - Drinks reception in the exhibition hall, including a
                 demonstration of the [Baby][baby] computer and poster
                 presentations.
+
+### Small community meetings
+
+There will be two parallel small community meetings from 10:00-13:00, which you
+can opt into when filling out the registration form.
+
+#### Fortran index hackathon
+
+A wealth of packages have been developed to support Fortran-based science over
+the past 70 years and there are many amazing tools out there. However, they can
+be difficult to find.
+
+[Fortran index](https://fortran-index.github.io) is a hackathon series aimed at
+improving the usefulness of the package index on the
+[Fortran-lang](https://fortran-lang.org) community resource webpage, to make it
+a 'one-stop-shop' for all Fortran-related information. Activities in the
+hackathon might include improving navigability, the search function, and/or
+filtering of packages. No knowledge of web development is required.
+
+#### Fortran testing code clinic
+
+Want to start unit testing your Fortran code but not sure where to begin? Join
+our code clinic for a practical introduction to
+[pFUnit](https://github.com/Goddard-Fortran-Ecosystem/pFUnit), a unit testing
+framework designed for Fortran.
+
+We'll cover the basics of writing unit tests with pFUnit and show you how to
+integrate your tests into CMake and Make build systems. Then it’s your turn:
+bring along your own Fortran project and spend dedicated time adding unit tests
+to your code, with our in-person demonstrators on hand to help you get started
+and troubleshoot along the way.
+
+Come with your code, leave with the foundations of a working test suite!
 
 ### Workshop programme
 
