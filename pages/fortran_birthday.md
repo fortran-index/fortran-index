@@ -86,9 +86,10 @@ right now, and lightning talks on community initiatives that are making waves.
 
 ##### Exciting developments
 
-1. *HSL: 60+ Years of Numerical Software in Fortran* - **Jennifer Scott, Rutherford Appleton Laboratory**
-2. *LFortran: Compiling Production Packages and Offloading to GPUs* - **Ondřej Čertík, Microsoft**
-3. *Fortitude: A Modern Fortran Linter* - **Liam Pattinson, University of York**
+1. *Portability of Fortran's `do concurrent` on GPUs* - **Ronald Caplan, Predictive Science Inc.** (remote)
+2. *HSL: 60+ Years of Numerical Software in Fortran* - **Jennifer Scott, Rutherford Appleton Laboratory**
+3. *LFortran: Compiling Production Packages and Offloading to GPUs* - **Ondřej Čertík, Microsoft**
+4. *Fortitude: A Modern Fortran Linter* - **Liam Pattinson, University of York**
 
 ##### Community initiatives
 
