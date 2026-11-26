@@ -3,7 +3,7 @@ program fortran_birthday
   implicit none (type, external)
   character(len=70) :: timeline(-1:2)
   character(len=70) :: morning1, morning2, arrival, intro, keynote, break, &
-                       lightning1, lightning2(3), lightning3(3), breakout, &
+                       lightning1, lightning2(4), lightning3(3), breakout, &
                        outro, evening
 
   timeline(-1) = "Fortran birthday" ! Tuesday 1 December 2026
@@ -27,7 +27,7 @@ program fortran_birthday
   ! 15:50-17:00 'Present'
   break = "Coffee break"
   lightning1 = "Sponsor lightning talks"
-  lightning2(:) = ["HSL", "LFortran", "Fortitude"]  ! Exciting developments
+  lightning2(:) = ["GPU", "HSL", "LFortran", "Fortitude"]  ! Exciting dev.
   lightning3(:) = ["Committee", "SIG", "FortranFuture"]  ! Community initiatives
 
   ! 17:00-18:15 'Future'
